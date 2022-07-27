@@ -13,7 +13,7 @@ end
 -- EJEMPLO 2 - Organizar numeros mayor o menor
 
 numero1 = 14
-numero2 = 
+numero2 = 54
 
 if numero1 < numero2 then
     print(numero1, "es menor que", numero2)
