@@ -1,4 +1,4 @@
--- CONDICIONALES 
+-- CONDICIONALES
 
 -- EJEMPLO 1 - Programa de mayor de edad
 
